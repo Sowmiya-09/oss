@@ -1,0 +1,24 @@
+From 48756e38be2d868f4ad4041326000729a774c540 Mon Sep 17 00:00:00 2001
+From: Sowmiya <sowmish09@gmail.com>
+Date: Thu, 9 May 2024 06:19:08 +0530
+Subject: [PATCH] 5
+
+---
+ 2.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/2.txt b/2.txt
+index a171135..0d5cab9 100644
+--- a/2.txt
++++ b/2.txt
+@@ -1,5 +1,5 @@
++324
+ a
+ b
+ c
+-m
+-n
++c
+-- 
+2.40.1.windows.1
+
